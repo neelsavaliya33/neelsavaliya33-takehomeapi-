@@ -1,7 +1,7 @@
 npm install
 
 config/config.json
-editdatabase configuration
+edit database configuration
 
 npx sequelize-cli db:create
 
